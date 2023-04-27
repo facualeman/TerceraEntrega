@@ -1,0 +1,53 @@
+/* Estilos para los colores de la naturaleza */
+
+
+
+body {
+    background-color: #F6D8AE;
+    font-family: 'Montserrat', sans-serif;
+  }
+
+  
+  h1, h2 {
+    color: #6D4C41;
+  }
+  
+  label {
+    color: #5E5E5E;
+  }
+  
+  select {
+    background-color: #FFFFFF;
+    border: 2px solid #6D4C41;
+    color: #5E5E5E;
+    font-size: 16px;
+    padding: 8px 16px;
+    text-align: center;
+  }
+  
+  button {
+    background-color: #6D4C41;
+    border: none;
+    color: #FFFFFF;
+    font-size: 16px;
+    padding: 8px 16px;
+    margin-top: 16px;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #5E5E5E;
+  }
+  
+  #resultado {
+    background-color: #FFFFFF;
+    border: 2px solid #6D4C41;
+    padding: 16px;
+    margin-top: 16px;
+    font-size: 16px;
+    color: #5E5E5E;
+  
+    max-width: 500px;
+    margin-top: 20px;
+  }
+  
